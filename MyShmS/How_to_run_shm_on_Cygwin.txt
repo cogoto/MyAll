@@ -1,0 +1,5 @@
+Cygwin を管理者として起動し，
+
+cygrunsrv -S cygserver
+
+を実行すればよい。
