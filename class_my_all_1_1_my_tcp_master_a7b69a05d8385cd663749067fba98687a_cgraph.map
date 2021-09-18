@@ -1,0 +1,4 @@
+<map id="MyAll::MyTcpMaster::Send" name="MyAll::MyTcpMaster::Send">
+<area shape="rect" id="node1" title="Sends a message string :" alt="" coords="5,5,148,47"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_tcp_master.html#a04e8fc719a6a46afa602dc63aa2f9500" title="Sends messages (char) :" alt="" coords="196,5,339,47"/>
+</map>

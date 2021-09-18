@@ -1,0 +1,4 @@
+<map id="MyAll::MyTcpClient" name="MyAll::MyTcpClient">
+<area shape="rect" id="node1" title="My class for the TCP client." alt="" coords="9,80,144,107"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_tcp_master.html" title="My master class for TCP connection." alt="" coords="5,5,148,32"/>
+</map>

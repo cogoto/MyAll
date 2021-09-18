@@ -1,0 +1,4 @@
+<map id="MyAll::MyTcpMaster::Recv" name="MyAll::MyTcpMaster::Recv">
+<area shape="rect" id="node1" title="Receives messages (char) :" alt="" coords="5,5,148,47"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_tcp_master.html#af2b06a06a84b5fdd0030d951d01cca5c" title="Receives messages (char) :" alt="" coords="196,5,339,47"/>
+</map>

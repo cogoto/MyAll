@@ -1,0 +1,4 @@
+<map id="MyAll::MyStatus::CheckSts_warn" name="MyAll::MyStatus::CheckSts_warn">
+<area shape="rect" id="node1" title="Checks the existence of the specified state from warning statuses. :" alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_status.html#afad675b50a4dc05b23d7a93a49d6993a" title="Checks the existence of the specified state from all statuses. :" alt="" coords="272,5,456,32"/>
+</map>

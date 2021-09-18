@@ -1,0 +1,4 @@
+<map id="MyAll::MyShmS::Init" name="MyAll::MyShmS::Init">
+<area shape="rect" id="node1" title="Initializes the shared memories &amp; semaphore. :" alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_shm_s.html#afaaf469ffea49d51497a98c688a9eb3f" title="Closes the shared memories &amp; semaphore. :" alt="" coords="196,5,355,32"/>
+</map>

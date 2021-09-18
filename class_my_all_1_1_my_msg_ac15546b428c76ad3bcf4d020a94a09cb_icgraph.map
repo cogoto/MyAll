@@ -1,0 +1,4 @@
+<map id="MyAll::MyMsg::Get" name="MyAll::MyMsg::Get">
+<area shape="rect" id="node1" title="Gets the organized message. :" alt="" coords="195,5,329,32"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_msg.html#ac200088c4bd47dfdbab2cce6b47d2e9f" title="Prints messages. :" alt="" coords="5,5,147,32"/>
+</map>

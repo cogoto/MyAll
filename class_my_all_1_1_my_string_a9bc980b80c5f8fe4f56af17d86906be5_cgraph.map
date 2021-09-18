@@ -1,0 +1,6 @@
+<map id="MyAll::MyString::Split" name="MyAll::MyString::Split">
+<area shape="rect" id="node1" title="String splitting with a delimiter. :" alt="" coords="5,42,155,69"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_string.html#add32aca209e3f1c94265d7fa92e9ec0d" title="A direct string replacement with a pattern. :" alt="" coords="203,5,373,47"/>
+<area shape="rect" id="node4" href="$class_my_all_1_1_my_string.html#a9f36a7f910195ffd10632366e80f17e9" title="String splitting with a delimiter. :" alt="" coords="213,71,363,98"/>
+<area shape="rect" id="node3" href="$class_my_all_1_1_my_string.html#a7f3305b9c921004809be0dc61a34ebcc" title="A string replacement with a pattern. :" alt="" coords="421,13,592,39"/>
+</map>

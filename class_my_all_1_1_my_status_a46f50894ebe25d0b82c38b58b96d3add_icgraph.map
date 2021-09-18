@@ -1,0 +1,4 @@
+<map id="MyAll::MyStatus::CloseShm" name="MyAll::MyStatus::CloseShm">
+<area shape="rect" id="node1" title="Closes the semaphore and shared memories. :" alt="" coords="244,5,431,32"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_status.html#a2e9e0cb36adb1f71e67c5b1c99f76942" title="Destractor :" alt="" coords="5,5,196,32"/>
+</map>

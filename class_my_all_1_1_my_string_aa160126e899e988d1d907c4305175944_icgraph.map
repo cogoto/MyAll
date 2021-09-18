@@ -1,0 +1,11 @@
+<map id="MyAll::MyString::Str2d" name="MyAll::MyString::Str2d">
+<area shape="rect" id="node1" title="A string to the real number. :" alt="" coords="457,81,612,108"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_string.html#a934b0fdf67b5ca9045a56e038753825a" title="A hex string to the char&#45;type. :" alt="" coords="241,5,401,32"/>
+<area shape="rect" id="node4" href="$class_my_all_1_1_my_string.html#a27a54bc683714f9ffdb1c183e5d1c3ee" title="A string to the real number. :" alt="" coords="243,56,398,83"/>
+<area shape="rect" id="node5" href="$class_my_all_1_1_my_string.html#a429d0f51b4daa0c67ce307f1688bc13e" title="a string to the integer. :" alt="" coords="245,107,396,133"/>
+<area shape="rect" id="node7" href="$class_my_all_1_1_my_string.html#ab4ea16fd4c09593547dc242fc5d0785a" title="Strings to real numbers. :" alt="" coords="232,161,409,188"/>
+<area shape="rect" id="node3" href="$class_my_all_1_1_my_string.html#a614dd30c0228abf19905756d0640e36b" title="A hex string to the unsigned char&#45;type. :" alt="" coords="15,5,175,32"/>
+<area shape="rect" id="node6" href="$class_my_all_1_1_my_string.html#ab603fc2f447b2e4983fae5aba27735f1" title="A char&#45;type to the (unsigned) integer." alt="" coords="5,103,184,129"/>
+<area shape="rect" id="node8" href="$class_my_all_1_1_my_string.html#adcfb1a1e7f8356a6872e1fd9581adfef" title="Converts a string line to the real number array." alt="" coords="20,154,169,195"/>
+<area shape="rect" id="node9" href="$class_my_all_1_1_my_string.html#a51e4d4852ddd6bd25e7b7354dcdf3dd7" title="Strings to real numbers. :" alt="" coords="6,220,183,247"/>
+</map>

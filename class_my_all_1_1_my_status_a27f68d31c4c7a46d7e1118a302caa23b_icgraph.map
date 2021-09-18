@@ -1,0 +1,6 @@
+<map id="MyAll::MyStatus::GetSts" name="MyAll::MyStatus::GetSts">
+<area shape="rect" id="node1" title="Gets all status. :" alt="" coords="257,56,425,83"/>
+<area shape="rect" id="node2" href="$class_my_all_1_1_my_status.html#ac00c8888fa4f8d3936dea98eda45aa70" title="Gets the error status names that have the specified state. :" alt="" coords="12,5,203,32"/>
+<area shape="rect" id="node3" href="$class_my_all_1_1_my_status.html#a528d68470e392bac0c9d4d0e6eb49f0e" title="Gets the normal status names that have the specified state. :" alt="" coords="5,56,209,83"/>
+<area shape="rect" id="node4" href="$class_my_all_1_1_my_status.html#a127ac2aafdd306ce1450841348f83199" title="Gets the warning status names that have the specified state. :" alt="" coords="6,107,209,133"/>
+</map>
