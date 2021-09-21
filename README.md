@@ -1,10 +1,10 @@
 # MyAll
 
-Class libraries for programming c++ more easily (personally).
+[MyAll](https://cogoto.github.io/MyAll/annotated.html) is class libraries for programming c++ more easily (personally).
 
 | class | brief | related class of MyAll | header file |
 |:---|:---|:---|:---|
-| MyChronos   | Deals with time. | MyString | MyChronos.hpp |
+| [MyChronos](https://cogoto.github.io/MyAll/classMyAll_1_1MyChronos.html)   | Deals with time. | MyString | MyChronos.hpp |
 | MyFFT       | Calculates FFT(Fast Fourier Transform). | - | MyFFT.hpp |
 | MyI         | Inputs data from the file. | MyString | MyIO.hpp |
 | MyO         | Outputs data into the file. | - | MyIO.hpp |
