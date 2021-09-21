@@ -1,0 +1,43 @@
+#
+# Directories to ignore.
+#
+
+cpp/
+doxygen/
+include/
+lib/
+tool/
+
+README/
+
+old/
+org/
+sample/
+test/
+
+#
+# Directories to exclude from ignoring.
+#
+
+
+#
+# Files to ignore.
+#
+
+Doxyfile
+#.gitignore
+.gitmodules
+
+ver.*
+*/lib*.so
+*/*.exe
+*/*.shm
+*/*.out
+*/*.log
+*/*.o
+
+#
+# Files to exclude from ignoring.
+#
+
+#!tool/*.pl
