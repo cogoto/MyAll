@@ -1,0 +1,6 @@
+<map id="MyAll::MyTelnet" name="MyAll::MyTelnet">
+<area shape="rect" id="node1" title="My class for TELNET connection." alt="" coords="59,171,186,197"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyString.html" title="My class for dealing string." alt="" coords="5,81,131,108"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyTcpClient.html" title="My class for the TCP client." alt="" coords="155,81,301,108"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyTcpMaster.html" title="My master class for TCP connection." alt="" coords="151,5,305,32"/>
+</map>

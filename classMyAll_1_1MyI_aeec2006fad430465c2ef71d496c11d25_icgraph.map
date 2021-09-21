@@ -1,0 +1,6 @@
+<map id="MyAll::MyI::ReadData" name="MyAll::MyI::ReadData">
+<area shape="rect" id="node1" title="Reads data as 2D string array. :" alt="" coords="392,28,555,55"/>
+<area shape="rect" id="node2" href="$MyIO_8sample_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="to string for Cygwin" alt="" coords="5,28,60,55"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyI.html#aa96659523f2e23f8d0dfc4dd11932b9d" title="Reads data as 2D complex number array." alt="" coords="108,28,344,55"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyI.html#ab498c243926256daf08c3a38d7b5c4c6" title="Reads data as 2D real&#45;number array. :" alt="" coords="137,79,315,105"/>
+</map>

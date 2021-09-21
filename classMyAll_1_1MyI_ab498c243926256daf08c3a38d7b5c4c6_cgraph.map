@@ -1,0 +1,7 @@
+<map id="MyAll::MyI::ReadDouble" name="MyAll::MyI::ReadDouble">
+<area shape="rect" id="node1" title="Reads data as 2D real&#45;number array. :" alt="" coords="5,78,184,105"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyI.html#aeec2006fad430465c2ef71d496c11d25" title="Reads data as 2D string array. :" alt="" coords="232,78,395,105"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyI.html#a69d37c39ece39498afd49cbc02cc8cd7" title="For fast reading of larger rows (* however, only use when the row length is under N_READ_)...." alt="" coords="474,5,629,47"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyI.html#a3a49cdb5b6c687aa0616868c03c7be23" title="For fast reading of smaller rows. :" alt="" coords="474,71,629,112"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyI.html#afe2229f5713d2f2bef8b9b41325ffe85" title="This function removes comment&#45;out lines." alt="" coords="443,137,660,163"/>
+</map>

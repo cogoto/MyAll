@@ -1,4 +1,8 @@
 var searchData=
 [
-  ['error_5fmsg_5f_704',['error_msg_',['../class_my_all_1_1_my_tcp_master.html#a32ef937a22855ec1bc076f5b7b7f7659',1,'MyAll::MyTcpMaster::error_msg_()'],['../class_my_all_1_1_my_udp_master.html#a57c372efc426b1faca784589d9766d8a',1,'MyAll::MyUdpMaster::error_msg_()']]]
+  ['b_1043',['b',['../MyIO_8sample_8txt.html#a21ad0bd836b90d08f4cf640b4c298e7c',1,'MyIO.sample.txt']]],
+  ['b2_1044',['b2',['../MyIO_8sample_8txt.html#a60aee5f96367ea6d10b670a8c01da54b',1,'MyIO.sample.txt']]],
+  ['back_5fcolor_5flist_5f_1045',['back_color_list_',['../classMyAll_1_1MySysCmd.html#a3fbaf45214787f034a8a0536330fb658',1,'MyAll::MySysCmd']]],
+  ['buf_1046',['buf',['../unionMyAll_1_1MyShmS_1_1semun.html#ac1dc48dc292136d1578ba3397e92f4ee',1,'MyAll::MyShmS::semun']]],
+  ['byte_5fsize_5f_1047',['byte_size_',['../classMyAll_1_1MyShmS.html#a5d496e685ecc70bee6ddfcb4b6c00866',1,'MyAll::MyShmS']]]
 ];

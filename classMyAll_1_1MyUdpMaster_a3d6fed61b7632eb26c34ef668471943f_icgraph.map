@@ -1,0 +1,4 @@
+<map id="MyAll::MyUdpMaster::SetTimeOut" name="MyAll::MyUdpMaster::SetTimeOut">
+<area shape="rect" id="node1" title="timeout intervals [sec.], the default is not to use time&#45;out. :" alt="" coords="108,5,267,47"/>
+<area shape="rect" id="node2" href="$MyUdp_8sample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MyAll::MyTcpServer::Wait" name="MyAll::MyTcpServer::Wait">
+<area shape="rect" id="node1" title="Waits clients, and then, returns the socket. :" alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyTcpServer.html#ad1c187155442eab141a2afaf0a4deec2" title="Waits clients. :" alt="" coords="204,5,355,47"/>
+</map>

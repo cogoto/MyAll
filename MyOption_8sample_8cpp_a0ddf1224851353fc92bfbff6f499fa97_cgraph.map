@@ -1,0 +1,23 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,539,60,565"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyOption.html#a9413b0924972578e1cf17ccdc24b989e" title="Get command&#45;line arguments as vector. :" alt="" coords="131,5,313,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyOption.html#a38c489629117c00a31ff3317c27b0794" title="Gets a command&#45;line argument as double. :" alt="" coords="131,57,313,98"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyOption.html#aaf5fba1eb2e15ee47c613f87f7937b4b" title="Gets a command&#45;line argument as integer. :" alt="" coords="119,123,325,149"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyOption.html#a836401f790336156cf9b03fa9f5efedb" title="Gets a number of arguments. :" alt="" coords="113,173,331,200"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyOption.html#a986a00d3ef8ced108bca0cbc33661999" title="Gets a command&#45;line argument as string. :" alt="" coords="131,225,313,266"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyOption.html#a7de46dac9d11dddafe45ca162a05245f" title="Gets arguments with the options as map. :" alt="" coords="130,291,314,317"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyOption.html#a8ca93e445e666a96e4abaa4ab1f476f4" title="Checks existence of the option. :" alt="" coords="113,341,331,368"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyOption.html#a9c9f93b210ccfb061a480d9caf6c688d" title="Gets an argument with the option as double. :" alt="" coords="130,393,314,434"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyOption.html#a6f07aa077412a0cedfeb53992ece532b" title="Gets an argument with the option as integer. :" alt="" coords="118,459,326,485"/>
+<area shape="rect" id="node11" href="$classMyAll_1_1MyOption.html#a9ce9e9cdb4731ae00dc4dc6e1d85ad08" title="Gets the number of options. :" alt="" coords="112,509,332,536"/>
+<area shape="rect" id="node12" href="$classMyAll_1_1MyOption.html#ad3cf9349f0027f087105140cf32d2ad5" title="Gets an argument with the option as string. :" alt="" coords="130,561,314,602"/>
+<area shape="rect" id="node13" href="$classMyAll_1_1MyOption.html#a86b5e2cb6011897f3171349ab9133a92" title="Gets option&#39;s phrase. :" alt="" coords="108,627,336,653"/>
+<area shape="rect" id="node14" href="$classMyAll_1_1MyOption.html#a20cefc0a7a0b4a96182d36e1c13ee4ed" title="Executed program name. :" alt="" coords="133,677,311,704"/>
+<area shape="rect" id="node15" href="$classMyAll_1_1MyOption.html#a56d265c6f06375a87699c060862024b0" title="Reads &amp; analyzes all arguments &amp; options. :" alt="" coords="125,728,319,755"/>
+<area shape="rect" id="node16" href="$classMyAll_1_1MyOption.html#aec842f01218512f174b767cdaa0b21ff" title="Sets options with arguments. :" alt="" coords="120,779,324,805"/>
+<area shape="rect" id="node17" href="$classMyAll_1_1MyOption.html#ad146e46c97fce2a877372b42caf49969" title="Sets file which is written help strings. :" alt="" coords="114,829,330,856"/>
+<area shape="rect" id="node18" href="$classMyAll_1_1MyOption.html#ae93f3fd8bfc055a6cf9f89060bcee66d" title="Sets options for help. :" alt="" coords="113,880,331,907"/>
+<area shape="rect" id="node19" href="$classMyAll_1_1MyOption.html#ac302efa6ccb3101a5f3461464d3ad88e" title="Sets a help argument. :" alt="" coords="127,931,317,973"/>
+<area shape="rect" id="node20" href="$classMyAll_1_1MyOption.html#a601497f211248936a579f77eebdb6eac" title="Sets single&#45;options which have no arguments. :" alt="" coords="111,997,333,1024"/>
+<area shape="rect" id="node21" href="$classMyAll_1_1MyOption.html#aa71e7d97194075182febd8e7e5fdc2aa" title="Whether to use help in the case of options &amp; arguments are blank. :" alt="" coords="125,1049,319,1090"/>
+</map>

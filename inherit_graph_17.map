@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMyAll_1_1MyUdpMaster.html" title="My master class for UDP connection." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyUdpComm.html" title="My class for communicating with UDP." alt="" coords="212,5,368,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyUdpServer.html" title="My class for the UDP server." alt="" coords="213,56,367,83"/>
+</map>

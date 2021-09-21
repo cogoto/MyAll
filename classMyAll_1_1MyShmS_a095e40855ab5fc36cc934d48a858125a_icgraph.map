@@ -1,0 +1,5 @@
+<map id="MyAll::MyShmS::MakeSem" name="MyAll::MyShmS::MakeSem">
+<area shape="rect" id="node1" title="Makes a semaphore. :" alt="" coords="243,31,439,57"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyShmS.html#a4ce1be72588dad4ba5267414b9534dd3" title="Initializes the shared memories &amp; semaphore. :" alt="" coords="23,5,177,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyShmS.html#a46c987dfd2d6b331fdcb0a02b82dd6c7" title="Constractor (using new shared memories) :" alt="" coords="5,56,195,83"/>
+</map>

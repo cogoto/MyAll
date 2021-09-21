@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['n_5fread_5f_708',['n_read_',['../class_my_all_1_1_my_tcp_master.html#abe97ab5685f89b7945af09fae0836e38',1,'MyAll::MyTcpMaster::n_read_()'],['../class_my_all_1_1_my_udp_master.html#ae998cf5700154b09266bba4fbc591c86',1,'MyAll::MyUdpMaster::n_read_()']]],
-  ['n_5fretry_5f_709',['n_retry_',['../class_my_all_1_1_my_tcp_master.html#a7222bb1554cd72144caf15b108e643aa',1,'MyAll::MyTcpMaster::n_retry_()'],['../class_my_all_1_1_my_udp_master.html#aa186265ad0d661305fa0d0efb9687a9b',1,'MyAll::MyUdpMaster::n_retry_()']]],
-  ['n_5fretry_5fc_5f_710',['N_RETRY_C_',['../class_my_all_1_1_my_tcp_master.html#ab6fa62c7758305ae00779a3d8d38bd52',1,'MyAll::MyTcpMaster::N_RETRY_C_()'],['../class_my_all_1_1_my_udp_master.html#a6ef9985b0c6766062696bcfceb4e0bdc',1,'MyAll::MyUdpMaster::N_RETRY_C_()']]],
-  ['n_5fwrite_5f_711',['n_write_',['../class_my_all_1_1_my_tcp_master.html#a9a20ec3a47e636b3997181f6224f4a3e',1,'MyAll::MyTcpMaster::n_write_()'],['../class_my_all_1_1_my_udp_master.html#add4c98da60786a76c87face8fa7afc64',1,'MyAll::MyUdpMaster::n_write_()']]]
+  ['e_1083',['e',['../MyIO_8sample_8txt.html#a08a4415e9d594ff960030b921d42b91e',1,'MyIO.sample.txt']]],
+  ['err_5fmsg_5f_1084',['err_msg_',['../classMyAll_1_1MyString.html#ac1ae6ed4fb222bfa8f1e5e325b7429af',1,'MyAll::MyString']]],
+  ['error_5fmsg_5f_1085',['error_msg_',['../classMyAll_1_1MyTcpMaster.html#a32ef937a22855ec1bc076f5b7b7f7659',1,'MyAll::MyTcpMaster::error_msg_()'],['../classMyAll_1_1MyUdpMaster.html#a57c372efc426b1faca784589d9766d8a',1,'MyAll::MyUdpMaster::error_msg_()']]],
+  ['exist_5fhelp_5ffile_5f_1086',['exist_help_file_',['../classMyAll_1_1MyOption.html#a43b37d034e3169524ea537ea30b5dc3e',1,'MyAll::MyOption']]],
+  ['exist_5fhelp_5fstring_5f_1087',['exist_help_string_',['../classMyAll_1_1MyOption.html#af410ff99b254acb211f937410c4c4d2e',1,'MyAll::MyOption']]]
 ];

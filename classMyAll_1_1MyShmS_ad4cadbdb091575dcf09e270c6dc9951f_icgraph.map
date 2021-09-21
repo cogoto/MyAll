@@ -1,0 +1,12 @@
+<map id="MyAll::MyShmS::ExistName" name="MyAll::MyShmS::ExistName">
+<area shape="rect" id="node1" title="Checks a existance of the shared memory." alt="" coords="579,148,781,175"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyShmS.html#a63d698b67e60d2770e146aa7fc4849f7" title="Checks before reading the shared memory. :" alt="" coords="323,5,531,32"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyShmS.html#a24a125818663d59c9dfd5d8eea5348cd" title="Checks before writing the shared memory. :" alt="" coords="341,57,513,98"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyShmS.html#a8b08ebbe3f64e5820034e0cb342abd17" title="Gets the number of the shared memories. :" alt="" coords="355,123,498,149"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyShmS.html#a24714e25843c9b3d2bc1dfdd19b4f140" title="Gets the number of characters in the string shared memories. :" alt="" coords="338,173,515,200"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyShmS.html#a2c4c0256af39629c7bd69cd5c2a7b131" title="Gets the kind of the shared memories. :" alt="" coords="345,224,508,251"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyShmS.html#a444080c999356e38f7aaae6423485faf" title="Writes the shared memory (string) :" alt="" coords="343,275,510,301"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyShmS.html#abfa2b84eada196750e060396253fa1a0" title="Reads the shared memory (boolean) :" alt="" coords="109,8,274,35"/>
+<area shape="rect" id="node4" href="$MyShmS_8sample_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,35,60,61"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyShmS.html#aaf613bfdaa4350be15573fd843a6b8f8" title="Writes the shared memory (boolean) :" alt="" coords="108,60,275,87"/>
+</map>

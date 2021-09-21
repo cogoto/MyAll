@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,177,60,203"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyTcpMaster.html#ac200fc33abc3f8897b8bc0bee4dfc7f2" title="Formats packets &amp; prints these if you need. :" alt="" coords="108,5,261,47"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyTcpClient.html#a71c1fa8c08c9f2fd88854a1787b829d0" title="Initialization. :" alt="" coords="111,71,258,112"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyTcpServer.html#ac8f8f76ae8924ef6e831995046165a98" title="Initialization. :" alt="" coords="109,136,260,177"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyTcpMaster.html#af2b06a06a84b5fdd0030d951d01cca5c" title="Receives messages (char) :" alt="" coords="108,201,261,243"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyTcpMaster.html#a04e8fc719a6a46afa602dc63aa2f9500" title="Sends messages (char) :" alt="" coords="108,267,261,308"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyTcpServer.html#ad1c187155442eab141a2afaf0a4deec2" title="Waits clients. :" alt="" coords="109,332,260,373"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyTcpClient.html#ad994c7c925646712e69a471c5058dea7" title="Initialization. :" alt="" coords="309,71,456,112"/>
+</map>

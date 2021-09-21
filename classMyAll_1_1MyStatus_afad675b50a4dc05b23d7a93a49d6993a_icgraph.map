@@ -1,0 +1,7 @@
+<map id="MyAll::MyStatus::CheckSts" name="MyAll::MyStatus::CheckSts">
+<area shape="rect" id="node1" title="Checks the existence of the specified state from all statuses. :" alt="" coords="393,56,589,83"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyStatus.html#ad6be5400bcd7911719509eab8365123a" title="Checks the existence of the specified state from error statuses. :" alt="" coords="116,5,337,32"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyStatus.html#a9754172673379aa3055bb79095fd0da8" title="Checks the existence of the specified state from normal statuses. :" alt="" coords="108,56,345,83"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyStatus.html#a4c4b6b006a84566ce8ff07d8d475a04c" title="Checks the existence of the specified state from warning statuses. :" alt="" coords="109,107,344,133"/>
+<area shape="rect" id="node3" href="$MyStatus_8sample_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
+</map>

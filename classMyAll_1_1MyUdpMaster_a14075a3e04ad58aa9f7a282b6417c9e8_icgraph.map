@@ -1,0 +1,4 @@
+<map id="MyAll::MyUdpMaster::Close" name="MyAll::MyUdpMaster::Close">
+<area shape="rect" id="node1" title="Closes sockets. :" alt="" coords="208,5,367,47"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyUdpServer.html#a0c15d2a096510f542c032bf67f760153" title="Closes all sockets. :" alt="" coords="5,5,160,47"/>
+</map>

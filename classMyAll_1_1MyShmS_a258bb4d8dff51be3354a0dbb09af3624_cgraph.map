@@ -1,0 +1,5 @@
+<map id="MyAll::MyShmS::ReadFile" name="MyAll::MyShmS::ReadFile">
+<area shape="rect" id="node1" title="Reads the (additional) shared memory file. :" alt="" coords="5,5,193,32"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyShmS.html#ad3b51751ee8263fd752d78f06d415ad0" title="Closes the semaphore. :" alt="" coords="241,5,444,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyShmS.html#a57f2d10144600c609a7fe58f080568f1" title="Closes the shared momories. :" alt="" coords="492,5,695,32"/>
+</map>

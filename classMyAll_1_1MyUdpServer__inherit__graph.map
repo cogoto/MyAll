@@ -1,0 +1,4 @@
+<map id="MyAll::MyUdpServer" name="MyAll::MyUdpServer">
+<area shape="rect" id="node1" title="My class for the UDP server." alt="" coords="7,80,162,107"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyUdpMaster.html" title="My master class for UDP connection." alt="" coords="5,5,164,32"/>
+</map>

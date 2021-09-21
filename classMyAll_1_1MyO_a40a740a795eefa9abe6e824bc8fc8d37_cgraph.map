@@ -1,0 +1,7 @@
+<map id="MyAll::MyO::Out" name="MyAll::MyO::Out">
+<area shape="rect" id="node1" title="Flushs a string array as a line to the registerd file :" alt="" coords="5,31,133,57"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyO.html#a2222dc09ab5b676d648848d2c76b0bac" title="Flushs a string to the file :" alt="" coords="181,31,309,57"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyO.html#a6caaea0ec8b8385891db61144d058ba4" title="File close." alt="" coords="561,5,703,32"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyO.html#a5cacdd1c0f4b9bdc0aa6f1d6cad35ae5" title="File re&#45;open." alt="" coords="357,31,513,57"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyO.html#acf5539f9b01da30c262d8defea3ac67e" title="Writes a string (without LF). :" alt="" coords="365,81,505,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MyAll::MyShmS::MyShmS" name="MyAll::MyShmS::MyShmS">
+<area shape="rect" id="node1" title="Constractor (using new shared memories) :" alt="" coords="5,31,195,57"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyShmS.html#a216127eaff9334f77f249cdd212ee61f" title="Defines byte sizes of each shared memory type. :" alt="" coords="243,5,453,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyShmS.html#a095e40855ab5fc36cc934d48a858125a" title="Makes a semaphore. :" alt="" coords="250,56,446,83"/>
+</map>

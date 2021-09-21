@@ -1,0 +1,8 @@
+<map id="MyAll::MyStatus" name="MyAll::MyStatus">
+<area shape="rect" id="node1" title="My class for managing status." alt="" coords="5,273,133,300"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyString.html" title="My class for dealing string." alt="" coords="47,5,172,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyShmS.html" title="My Class for using shared memories." alt="" coords="146,184,270,211"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyI.html" title="My class for reading files." alt="" coords="163,95,253,121"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyO.html" title="My class for writing files." alt="" coords="278,95,375,121"/>
+<area shape="rect" id="node5" href="$unionMyAll_1_1MyShmS_1_1semun.html" title=" " alt="" coords="400,95,576,121"/>
+</map>

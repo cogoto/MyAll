@@ -1,0 +1,7 @@
+<map id="MyAll::MyString::Split_match" name="MyAll::MyString::Split_match">
+<area shape="rect" id="node1" title="String splitting with a matched pattern. :" alt="" coords="364,53,527,94"/>
+<area shape="rect" id="node2" href="$MyString_8sample_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,35,60,62"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyString.html#a0e6fdeb40c94284f6076cff5a0f29427" title="Searches the number of matched strings :" alt="" coords="108,31,316,58"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyString.html#adcfb1a1e7f8356a6872e1fd9581adfef" title="Converts a string line to the real number array." alt="" coords="131,82,293,124"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyString.html#a41e4f43563abcf291984a72ab47bb61c" title="String splitting with a matched pattern. (lower speed) :" alt="" coords="131,148,293,189"/>
+</map>

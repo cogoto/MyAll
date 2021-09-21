@@ -1,0 +1,52 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1168,60,1195"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyStatus.html#ad6be5400bcd7911719509eab8365123a" title="Checks the existence of the specified state from error statuses. :" alt="" coords="127,5,348,32"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyStatus.html#a9754172673379aa3055bb79095fd0da8" title="Checks the existence of the specified state from normal statuses. :" alt="" coords="119,56,356,83"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyStatus.html#a4c4b6b006a84566ce8ff07d8d475a04c" title="Checks the existence of the specified state from warning statuses. :" alt="" coords="120,107,355,133"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyStatus.html#add47821e616bb22763ad9286e3c0c036" title="Associates the status with the status&#45;value. :" alt="" coords="143,157,332,184"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyStatus.html#a9fcf1e414ef1c87057a161aa352b1f44" title="Defines the error status. :" alt="" coords="135,208,339,235"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyStatus.html#a75a6a8d401a3794ac35be82d5ba6aab2" title="Defines the normal status. :" alt="" coords="127,259,347,285"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyStatus.html#a71754db70d34ed47def5f3becc9ac405" title="Defines the warning status. :" alt="" coords="128,309,347,336"/>
+<area shape="rect" id="node11" href="$classMyAll_1_1MyStatus.html#a5b999f57890d9132212b754562a18fef" title="Defines a status&#45;value of the boolean. :" alt="" coords="130,360,345,387"/>
+<area shape="rect" id="node12" href="$classMyAll_1_1MyStatus.html#a647e8e989623a64d097f0a5463b821df" title="Defines a status&#45;value of the char&#45;type. :" alt="" coords="130,411,345,437"/>
+<area shape="rect" id="node13" href="$classMyAll_1_1MyStatus.html#aeb51c0283b90931a4b810db8b9eb1268" title="Defines a status&#45;value of the real number. :" alt="" coords="148,462,327,503"/>
+<area shape="rect" id="node14" href="$classMyAll_1_1MyStatus.html#a3a6abf19ac0b506599cb1c4217b4e5ae" title="Defines a status&#45;value of the integer. :" alt="" coords="136,528,339,555"/>
+<area shape="rect" id="node15" href="$classMyAll_1_1MyStatus.html#a925adc0f6ca62f1a723c76069f5f7287" title="Defines a status&#45;value of string. :" alt="" coords="148,579,327,621"/>
+<area shape="rect" id="node16" href="$classMyAll_1_1MyStatus.html#a52ebda91949f948fb6eee03aeb43296e" title="Gets all command statements. :" alt="" coords="143,645,332,672"/>
+<area shape="rect" id="node17" href="$classMyAll_1_1MyStatus.html#ace33a749904a47f0f478e9276a7f8cca" title="Gets all command return strings. :" alt="" coords="143,697,332,738"/>
+<area shape="rect" id="node18" href="$classMyAll_1_1MyStatus.html#af9bb2898fe10ebacad3089f3ae3a1aba" title="Gets the macro command statements. :" alt="" coords="138,763,337,789"/>
+<area shape="rect" id="node19" href="$classMyAll_1_1MyStatus.html#aa4835819eb2ee6cbf267c73021188d15" title="Gets the status names that have the specified state. :" alt="" coords="148,813,327,840"/>
+<area shape="rect" id="node20" href="$classMyAll_1_1MyStatus.html#ac00c8888fa4f8d3936dea98eda45aa70" title="Gets the error status names that have the specified state. :" alt="" coords="135,864,339,891"/>
+<area shape="rect" id="node22" href="$classMyAll_1_1MyStatus.html#a528d68470e392bac0c9d4d0e6eb49f0e" title="Gets the normal status names that have the specified state. :" alt="" coords="127,915,347,941"/>
+<area shape="rect" id="node23" href="$classMyAll_1_1MyStatus.html#a127ac2aafdd306ce1450841348f83199" title="Gets the warning status names that have the specified state. :" alt="" coords="128,965,347,992"/>
+<area shape="rect" id="node24" href="$classMyAll_1_1MyStatus.html#a2fe0263d1eb2b6086779795c11ea0b4b" title="This function gets the registered status message with the keyword." alt="" coords="134,1016,341,1043"/>
+<area shape="rect" id="node25" href="$classMyAll_1_1MyStatus.html#ad780e15a46b485d014b6f86ad4be0be7" title="Gets status names. :" alt="" coords="415,1143,633,1169"/>
+<area shape="rect" id="node26" href="$classMyAll_1_1MyStatus.html#a7fd03ca333f1012b7d070fd23cf9932f" title="Gets all error status names. :" alt="" coords="116,1117,359,1144"/>
+<area shape="rect" id="node27" href="$classMyAll_1_1MyStatus.html#a9db12a11cc35da6f84c94205da42ae7f" title="Gets all normal status names. :" alt="" coords="108,1168,367,1195"/>
+<area shape="rect" id="node28" href="$classMyAll_1_1MyStatus.html#a7f354ddeb650b340c43cf5545736a91c" title="Gets all warning status names. :" alt="" coords="109,1219,366,1245"/>
+<area shape="rect" id="node29" href="$classMyAll_1_1MyStatus.html#aad8bebb6df77dee65b0147991995d6a4" title="Gets all status with strings. :" alt="" coords="144,1269,331,1296"/>
+<area shape="rect" id="node30" href="$classMyAll_1_1MyStatus.html#a41ec325eda9cc33bf954a65444a19f16" title="Gets a status&#45;value of the boolean. :" alt="" coords="130,1320,345,1347"/>
+<area shape="rect" id="node31" href="$classMyAll_1_1MyStatus.html#a5c826675bb9759b6b313c31def7d38eb" title="Gets status&#45;values of the boolean. :" alt="" coords="148,1371,327,1413"/>
+<area shape="rect" id="node32" href="$classMyAll_1_1MyStatus.html#ade9e544373d8f9d7d63074d9891b7a66" title="Gets a status&#45;value of the char&#45;type. :" alt="" coords="130,1437,345,1464"/>
+<area shape="rect" id="node33" href="$classMyAll_1_1MyStatus.html#a81040c8d27502945efc7cc0d3f79b3ea" title="Gets status&#45;values of the char&#45;type. :" alt="" coords="148,1489,327,1530"/>
+<area shape="rect" id="node34" href="$classMyAll_1_1MyStatus.html#ac31dfae4157ec0c5724e06972a3d223c" title="Sets a status&#45;value of the real number. :" alt="" coords="148,1554,327,1595"/>
+<area shape="rect" id="node35" href="$classMyAll_1_1MyStatus.html#ab3da7c24fffedd3b01888c58b45289bb" title="Sets a status&#45;value of the integer. :" alt="" coords="136,1620,339,1647"/>
+<area shape="rect" id="node36" href="$classMyAll_1_1MyStatus.html#a7cca2e3b12b4445259fd43e672f091c6" title="Sets status&#45;values of the integer. :" alt="" coords="132,1671,343,1697"/>
+<area shape="rect" id="node37" href="$classMyAll_1_1MyStatus.html#a6710ec7ae298f9cd2c50a8f7e5083252" title="Sets a status&#45;value of string. :" alt="" coords="148,1722,327,1763"/>
+<area shape="rect" id="node38" href="$classMyAll_1_1MyStatus.html#a6c1a3584fda22a9f4079b041f5760a9f" title="Gets all status&#45;values as string. :" alt="" coords="144,1788,331,1815"/>
+<area shape="rect" id="node39" href="$classMyAll_1_1MyStatus.html#af877eb5b1e61e03752d21010d11bbbd6" title="Prints all information of this class. :" alt="" coords="154,1839,321,1865"/>
+<area shape="rect" id="node40" href="$classMyAll_1_1MyStatus.html#a612dbb3fd2a8ebba93f8013fb9dd5f26" title="Prints all status corresponding to each status&#45;value. :" alt="" coords="144,1890,331,1931"/>
+<area shape="rect" id="node41" href="$classMyAll_1_1MyStatus.html#acc6da80961b450514a9dcc04453587f2" title="Prints all status&#45;values. :" alt="" coords="144,1956,331,1983"/>
+<area shape="rect" id="node42" href="$classMyAll_1_1MyStatus.html#a6378fc31bf9608091e0439831e51b0cb" title="Sets the command information. :" alt="" coords="144,2007,331,2033"/>
+<area shape="rect" id="node43" href="$classMyAll_1_1MyStatus.html#a5142ff31e8801d8d220add72b91cf2b4" title="Sets a macro command line one by one. :" alt="" coords="139,2057,336,2084"/>
+<area shape="rect" id="node44" href="$classMyAll_1_1MyStatus.html#a48562384191a037d03cca8c3a782e092" title="Controls the normal status. :" alt="" coords="128,2108,347,2135"/>
+<area shape="rect" id="node46" href="$classMyAll_1_1MyStatus.html#ac5b8ac92273f4723cd36ad52e60b743d" title="Sets a status&#45;value of the char&#45;type. :" alt="" coords="131,2159,343,2185"/>
+<area shape="rect" id="node47" href="$classMyAll_1_1MyStatus.html#a299f074aec3ac3a5e9903ec93fa9f6ef" title="Sets a status&#45;value of the real number. :" alt="" coords="149,2210,326,2251"/>
+<area shape="rect" id="node48" href="$classMyAll_1_1MyStatus.html#a43a45fd2236861790171255452a01340" title="Sets a status&#45;value of the integer. :" alt="" coords="137,2276,338,2303"/>
+<area shape="rect" id="node49" href="$classMyAll_1_1MyStatus.html#a38e2ba4535c5bbb516c4dd18258052c8" title="Sets a status&#45;value of string. :" alt="" coords="149,2327,326,2369"/>
+<area shape="rect" id="node50" href="$classMyAll_1_1MyStatus.html#aa519f0ab3acc9b7a72796414e4f6e9c8" title="Writes the information file of shared memories. :" alt="" coords="126,2393,349,2420"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyStatus.html#afad675b50a4dc05b23d7a93a49d6993a" title="Checks the existence of the specified state from all statuses. :" alt="" coords="426,56,622,83"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyStatus.html#ae384884576429d9f05dd2c0850fc6fd6" title="This function defines a status." alt="" coords="435,259,613,285"/>
+<area shape="rect" id="node21" href="$classMyAll_1_1MyStatus.html#a27f68d31c4c7a46d7e1118a302caa23b" title="Gets all status. :" alt="" coords="435,915,613,941"/>
+<area shape="rect" id="node45" href="$classMyAll_1_1MyStatus.html#aa21f4deeb86cd7e46d45da0403e9f011" title="Defines a status along with the kind of values." alt="" coords="435,2108,613,2135"/>
+</map>

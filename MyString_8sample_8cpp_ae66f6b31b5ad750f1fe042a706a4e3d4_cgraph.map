@@ -1,0 +1,20 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,419,60,445"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyString.html#afe93f2a201ff7171ddb2bd10b820225d" title="A char&#45;type to the integer. :" alt="" coords="123,5,311,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyString.html#ab603fc2f447b2e4983fae5aba27735f1" title="A char&#45;type to the (unsigned) integer." alt="" coords="119,208,315,235"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyString.html#a429d0f51b4daa0c67ce307f1688bc13e" title="a string to the integer. :" alt="" coords="389,208,551,235"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyString.html#add32aca209e3f1c94265d7fa92e9ec0d" title="A direct string replacement with a pattern. :" alt="" coords="828,201,1013,242"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyString.html#a7f3305b9c921004809be0dc61a34ebcc" title="A string replacement with a pattern. :" alt="" coords="1061,208,1247,235"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyString.html#aa160126e899e988d1d907c4305175944" title="A string to the real number. :" alt="" coords="613,259,780,285"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyString.html#a934b0fdf67b5ca9045a56e038753825a" title="A hex string to the char&#45;type. :" alt="" coords="383,309,557,336"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyString.html#a5a5a504f8c77956aeddcf6edd694e428" title="Searches the matched pattern. :" alt="" coords="131,528,304,555"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyString.html#a432411ff69243f1a6aecc30ba2bf567a" title="String replacements with patterns sequentially. :" alt="" coords="110,579,325,605"/>
+<area shape="rect" id="node11" href="$classMyAll_1_1MyString.html#a9f36a7f910195ffd10632366e80f17e9" title="String splitting with a delimiter. :" alt="" coords="136,629,299,656"/>
+<area shape="rect" id="node12" href="$classMyAll_1_1MyString.html#adcfb1a1e7f8356a6872e1fd9581adfef" title="Converts a string line to the real number array." alt="" coords="136,411,299,453"/>
+<area shape="rect" id="node13" href="$classMyAll_1_1MyString.html#ad3ab5173c02e61ca9246d90f13343921" title="String splitting with a matched pattern. :" alt="" coords="389,467,551,509"/>
+<area shape="rect" id="node14" href="$classMyAll_1_1MyString.html#ab4ea16fd4c09593547dc242fc5d0785a" title="Strings to real numbers. :" alt="" coords="375,360,565,387"/>
+<area shape="rect" id="node15" href="$classMyAll_1_1MyString.html#a2d864af5f4aed3807e5f253515a3e266" title="&quot;sprintf&quot; with string. :" alt="" coords="129,680,305,707"/>
+<area shape="rect" id="node16" href="$classMyAll_1_1MyString.html#ad12c11cd3cabea751c8c5e698b2ef5c6" title="A string to the boolean. :" alt="" coords="134,731,301,757"/>
+<area shape="rect" id="node17" href="$classMyAll_1_1MyString.html#aeb1bb625f410d79a84d1cb03a760b526" title="Converts to the lower case. :" alt="" coords="108,781,327,808"/>
+<area shape="rect" id="node18" href="$classMyAll_1_1MyString.html#ab09309e2b567a15a1a7de62e36f2cc8b" title="Converts to the upper case. :" alt="" coords="108,832,327,859"/>
+</map>

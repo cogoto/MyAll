@@ -1,0 +1,7 @@
+<map id="MyAll::MyO::Write" name="MyAll::MyO::Write">
+<area shape="rect" id="node1" title="Writes a string (without LF). :" alt="" coords="372,56,512,83"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyO.html#a4f0707b22ddd0c70289aa431c199fd6f" title="Set a blank file." alt="" coords="181,5,324,32"/>
+<area shape="rect" id="node3" href="$MyIO_8sample_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="to string for Cygwin" alt="" coords="42,56,97,83"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyO.html#a2222dc09ab5b676d648848d2c76b0bac" title="Flushs a string to the file :" alt="" coords="189,107,317,133"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyO.html#a82383c0e73e25632d88f6202e8a93d56" title="Flushs a string to the registerd file :" alt="" coords="5,107,133,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="MyAll::MyShmS::Close_shm" name="MyAll::MyShmS::Close_shm">
+<area shape="rect" id="node1" title="Closes the shared momories. :" alt="" coords="729,31,932,57"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyShmS.html#a83548e725585e5e6c10d8a21c95a79a5" title="Clears all the shared memories." alt="" coords="497,5,663,32"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyShmS.html#ad3b51751ee8263fd752d78f06d415ad0" title="Closes the semaphore. :" alt="" coords="479,56,681,83"/>
+<area shape="rect" id="node3" href="$MyShmS_8sample_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="73,5,127,32"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyShmS.html#afaaf469ffea49d51497a98c688a9eb3f" title="Closes the shared memories &amp; semaphore. :" alt="" coords="253,107,421,133"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyShmS.html#a258bb4d8dff51be3354a0dbb09af3624" title="Reads the (additional) shared memory file. :" alt="" coords="243,56,431,83"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyShmS.html#a4ce1be72588dad4ba5267414b9534dd3" title="Initializes the shared memories &amp; semaphore. :" alt="" coords="23,107,177,133"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyShmS.html#a2d5d5340ea935316e15973f4f2ed40d8" title="Constractor (dealing shared memories that already exists) :" alt="" coords="5,56,195,83"/>
+</map>

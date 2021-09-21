@@ -1,0 +1,4 @@
+<map id="MyAll::MyTcpServer::CloseClient" name="MyAll::MyTcpServer::CloseClient">
+<area shape="rect" id="node1" title="Close the sockets with clients. :" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyTcpServer.html#a974f3158fa05624336c751993970bf55" title="Closes all sockets. :" alt="" coords="5,5,156,47"/>
+</map>

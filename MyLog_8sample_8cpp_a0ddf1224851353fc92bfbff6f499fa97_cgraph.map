@@ -1,0 +1,15 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,60,285"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyLog.html#acd43fcaf020b0e180b08cc3acfe95098" title="The standard output of the debug string. :" alt="" coords="139,5,299,32"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyOption.html#a8ca93e445e666a96e4abaa4ab1f476f4" title="Checks existence of the option. :" alt="" coords="110,56,329,83"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyLog.html#a3720bd8f60edf1b885048a75c976cdd8" title="Logs the string to the file. :" alt="" coords="149,107,290,133"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyLog.html#a69f2d0b37320490b120b60b21d1666c4" title="The standard output. :" alt="" coords="145,157,293,184"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyOption.html#a56d265c6f06375a87699c060862024b0" title="Reads &amp; analyzes all arguments &amp; options. :" alt="" coords="122,208,317,235"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyOption.html#a601497f211248936a579f77eebdb6eac" title="Sets single&#45;options which have no arguments. :" alt="" coords="108,259,331,285"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyLog.html#addc1c32161d472ef2d7628fe4393a5e2" title="Prints the debug messages or not. :" alt="" coords="127,309,312,336"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyLog.html#a20c58c92695ed75a23366dcfd9385418" title="Logging the debug messages or not. :" alt="" coords="125,360,314,387"/>
+<area shape="rect" id="node11" href="$classMyAll_1_1MyLog.html#a1aeb93e7c40d520272cdfa90efb717eb" title="Logging to the file or not. :" alt="" coords="136,411,303,437"/>
+<area shape="rect" id="node12" href="$classMyAll_1_1MyLog.html#a5ecbbbde87117f193081557c9daf67c7" title="Prints the regular messages or not. :" alt="" coords="133,461,306,488"/>
+<area shape="rect" id="node13" href="$classMyAll_1_1MyLog.html#afb735b9699f17cd2daad59e9fbad2839" title="Uses the time stamp or not. :" alt="" coords="131,512,307,539"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyLog.html#a182f8d1e390d8333f7b1d7e1df863cc4" title="Gets time stamp. :" alt="" coords="379,107,553,133"/>
+</map>

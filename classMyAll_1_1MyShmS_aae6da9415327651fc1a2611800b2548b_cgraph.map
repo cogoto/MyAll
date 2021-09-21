@@ -1,0 +1,5 @@
+<map id="MyAll::MyShmS::Read" name="MyAll::MyShmS::Read">
+<area shape="rect" id="node1" title="Reads the shared memory (character) :" alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyShmS.html#a63d698b67e60d2770e146aa7fc4849f7" title="Checks before reading the shared memory. :" alt="" coords="219,5,427,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyShmS.html#ad4cadbdb091575dcf09e270c6dc9951f" title="Checks a existance of the shared memory." alt="" coords="475,5,677,32"/>
+</map>

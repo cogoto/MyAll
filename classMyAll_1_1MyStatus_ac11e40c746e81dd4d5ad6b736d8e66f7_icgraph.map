@@ -1,0 +1,8 @@
+<map id="MyAll::MyStatus::SetShm" name="MyAll::MyStatus::SetShm">
+<area shape="rect" id="node1" title="Makes setting related to shared memory. :" alt="" coords="603,56,789,83"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyStatus.html#ae384884576429d9f05dd2c0850fc6fd6" title="This function defines a status." alt="" coords="376,56,555,83"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyStatus.html#a9fcf1e414ef1c87057a161aa352b1f44" title="Defines the error status. :" alt="" coords="116,5,320,32"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyStatus.html#a75a6a8d401a3794ac35be82d5ba6aab2" title="Defines the normal status. :" alt="" coords="108,56,328,83"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyStatus.html#a71754db70d34ed47def5f3becc9ac405" title="Defines the warning status. :" alt="" coords="109,107,327,133"/>
+<area shape="rect" id="node4" href="$MyStatus_8sample_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
+</map>

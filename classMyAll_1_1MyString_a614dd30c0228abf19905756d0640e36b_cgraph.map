@@ -1,0 +1,7 @@
+<map id="MyAll::MyString::Hex2c" name="MyAll::MyString::Hex2c">
+<area shape="rect" id="node1" title="A hex string to the unsigned char&#45;type. :" alt="" coords="5,13,180,39"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyString.html#a934b0fdf67b5ca9045a56e038753825a" title="A hex string to the char&#45;type. :" alt="" coords="228,13,403,39"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyString.html#aa160126e899e988d1d907c4305175944" title="A string to the real number. :" alt="" coords="451,13,617,39"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyString.html#add32aca209e3f1c94265d7fa92e9ec0d" title="A direct string replacement with a pattern. :" alt="" coords="665,5,851,47"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyString.html#a7f3305b9c921004809be0dc61a34ebcc" title="A string replacement with a pattern. :" alt="" coords="899,13,1084,39"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="MyAll::MyLog::GetTime" name="MyAll::MyLog::GetTime">
+<area shape="rect" id="node1" title="Gets time stamp. :" alt="" coords="421,81,596,108"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyLog.html#acd43fcaf020b0e180b08cc3acfe95098" title="The standard output of the debug string. :" alt="" coords="213,31,373,57"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyLog.html#a3720bd8f60edf1b885048a75c976cdd8" title="Logs the string to the file. :" alt="" coords="223,81,364,108"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyLog.html#a69f2d0b37320490b120b60b21d1666c4" title="The standard output. :" alt="" coords="219,132,367,159"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyLog.html#adbe3f7831b2189842ab821f7f9de34aa" title="The standard output of the debug string. :" alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node4" href="$MyLog_8sample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="58,56,113,83"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyLog.html#a5081afb344704a583eebb58d4fb038c4" title="Logs the strings to the file. :" alt="" coords="15,107,156,133"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyLog.html#adb28a69508fe5fc27383bf2c5cafd2fa" title="The standard output. :" alt="" coords="11,157,159,184"/>
+</map>

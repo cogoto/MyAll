@@ -1,0 +1,5 @@
+<map id="MyAll::MyMsg::Get" name="MyAll::MyMsg::Get">
+<area shape="rect" id="node1" title="Gets the organized message. :" alt="" coords="5,42,151,69"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyMsg.html#af4f390f236db3af80918bdd85390a72e" title="Organizes the adjacent same words. :" alt="" coords="217,5,397,47"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyMsg.html#a9b932d73fbc10c999e04a1bc416efe08" title="Organizes the same words. :" alt="" coords="199,71,416,98"/>
+</map>

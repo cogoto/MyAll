@@ -1,0 +1,4 @@
+<map id="MyAll::MySysCmd::BeepSound" name="MyAll::MySysCmd::BeepSound">
+<area shape="rect" id="node1" title="Beep sounds :" alt="" coords="5,5,227,32"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MySysCmd.html#a05e3918ae18db4ad5a6dc4043ac07846" title="A beep sound thread. :" alt="" coords="275,5,524,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="MyAll::MyString::Split_double" name="MyAll::MyString::Split_double">
+<area shape="rect" id="node1" title="Converts a string line to the real number array." alt="" coords="5,34,168,76"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyString.html#a7f3305b9c921004809be0dc61a34ebcc" title="A string replacement with a pattern. :" alt="" coords="903,27,1088,54"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyString.html#ad3ab5173c02e61ca9246d90f13343921" title="String splitting with a matched pattern. :" alt="" coords="230,34,393,76"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyString.html#ab4ea16fd4c09593547dc242fc5d0785a" title="Strings to real numbers. :" alt="" coords="216,100,407,127"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyString.html#aa160126e899e988d1d907c4305175944" title="A string to the real number. :" alt="" coords="455,86,621,112"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyString.html#add32aca209e3f1c94265d7fa92e9ec0d" title="A direct string replacement with a pattern. :" alt="" coords="669,49,855,90"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,60,108"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyTelnet.html#a254cd182665375917319290c9effe5fd" title="This function closes the telnet connection." alt="" coords="128,5,299,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyTelnet.html#a9da9518969c54982f44303622d2cf1bc" title="Executes the command. :" alt="" coords="131,56,295,83"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyTelnet.html#ae413c51c670857a8dd61874d9b4307f2" title="Initializes the connection. :" alt="" coords="136,107,291,133"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyTelnet.html#aad816af30e597ebf6778a301a96f1c2c" title="This function prints the prompt string." alt="" coords="108,157,319,184"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyTelnet.html#afffcb7907985390491a534c4cf1ea7f2" title="Receives the data. :" alt="" coords="367,31,533,57"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyTelnet.html#ad25806883193a46d8c549e9e38756f6a" title="Sends the data. :" alt="" coords="367,81,533,108"/>
+</map>

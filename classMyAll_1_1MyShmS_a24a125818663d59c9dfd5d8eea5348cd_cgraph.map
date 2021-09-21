@@ -1,0 +1,5 @@
+<map id="MyAll::MyShmS::Check_write" name="MyAll::MyShmS::Check_write">
+<area shape="rect" id="node1" title="Checks before writing the shared memory. :" alt="" coords="5,23,177,65"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyShmS.html#ad4cadbdb091575dcf09e270c6dc9951f" title="Checks a existance of the shared memory." alt="" coords="225,5,428,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyShmS.html#a32a70c8db06f647d592e8957e344b4e1" title="Gets the shared momory ID. :" alt="" coords="235,56,419,83"/>
+</map>

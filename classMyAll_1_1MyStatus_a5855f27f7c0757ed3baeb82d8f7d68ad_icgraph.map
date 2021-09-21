@@ -1,0 +1,5 @@
+<map id="MyAll::MyStatus::ClearStatusMember" name="MyAll::MyStatus::ClearStatusMember">
+<area shape="rect" id="node1" title="Clears all member variables rerated to status. :" alt="" coords="225,23,436,65"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyStatus.html#a5a26f90319555bceae5cd5551343c72e" title="Closes all status information and shared memories. :" alt="" coords="6,5,177,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyStatus.html#a501a3589b27e124705b2cc9cc385e721" title="Closes all status information, shared memories, and the semaphore. :" alt="" coords="5,56,177,83"/>
+</map>

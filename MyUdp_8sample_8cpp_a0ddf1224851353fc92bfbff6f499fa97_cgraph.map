@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,261,60,287"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyUdpMaster.html#a9e863fe2c175b17fd584042a5c0ca693" title=" " alt="" coords="127,5,285,47"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyUdpMaster.html#a101098c938d70540779f7a820d485f95" title="Gets the current error message." alt="" coords="127,71,285,112"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyUdpComm.html#a1ee20dc870dbe818979400afdb60d7a6" title="Initialization. :" alt="" coords="113,137,299,163"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyUdpServer.html#ab3b005a96c9966943634707eb13fc17f" title="Initialization. :" alt="" coords="129,188,283,229"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyUdpComm.html#a96eddcba116b9a8ec453b15e5384df4c" title="Receives messages from the partner (char) :" alt="" coords="108,253,304,295"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyUdpServer.html#a9f27e44b2f92af5babb6c20b456767b6" title="Receives messages from the client (char) :" alt="" coords="129,319,283,360"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyUdpServer.html#a4206d56742f544dae56556fc6df56a33" title="Resets the client connection. :" alt="" coords="129,384,283,425"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyUdpMaster.html#ae1ade7450923af5d6907a0569eaf3309" title="Sends messages (char) :" alt="" coords="127,449,285,491"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyUdpMaster.html#a3d6fed61b7632eb26c34ef668471943f" title="timeout intervals [sec.], the default is not to use time&#45;out. :" alt="" coords="127,515,285,556"/>
+</map>

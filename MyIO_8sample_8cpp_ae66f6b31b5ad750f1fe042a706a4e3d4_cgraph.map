@@ -1,0 +1,21 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="to string for Cygwin" alt="" coords="5,309,60,336"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyI.html#ae8f3a21bb5a9a8af02255aa71ec73b08" title="Checks the file existance. :" alt="" coords="113,5,283,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyO.html#a6caaea0ec8b8385891db61144d058ba4" title="File close." alt="" coords="637,208,778,235"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyI.html#abf165f98013ec74e52e74bb76565ef1a" title="Gets the keywords resulted from ReadParam() &amp; ReadParam_all(). :" alt="" coords="125,107,271,133"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyI.html#ad37e88db224bf6446b761b966a7d09ab" title="Gets the section names. :" alt="" coords="113,157,283,184"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyO.html#a2222dc09ab5b676d648848d2c76b0bac" title="Flushs a string to the file :" alt="" coords="134,208,262,235"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyO.html#acf5539f9b01da30c262d8defea3ac67e" title="Writes a string (without LF). :" alt="" coords="373,259,513,285"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyO.html#a6962a7950ea22dd83d39173b3d0b634b" title="Flushs a formated string to the file :" alt="" coords="131,56,265,83"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyI.html#aeec2006fad430465c2ef71d496c11d25" title="Reads data as 2D string array. :" alt="" coords="362,537,525,564"/>
+<area shape="rect" id="node14" href="$classMyAll_1_1MyI.html#ab498c243926256daf08c3a38d7b5c4c6" title="Reads data as 2D real&#45;number array. :" alt="" coords="109,512,287,539"/>
+<area shape="rect" id="node15" href="$classMyAll_1_1MyI.html#a8edff7b5d389ad2cc7b250b18ca7a89f" title="Reads string data as a parameter map. (key = column 1, data= column 2) :" alt="" coords="111,461,285,488"/>
+<area shape="rect" id="node16" href="$classMyAll_1_1MyI.html#a56718bf9b21c9df2bb4963829162b858" title="Reads string data as a parameter map with sections. (key = section name &amp; column 1,..." alt="" coords="108,411,288,437"/>
+<area shape="rect" id="node18" href="$classMyAll_1_1MyO.html#a12ef597ad14ab46670de775b5b35d45c" title="File open or re&#45;open." alt="" coords="365,309,521,336"/>
+<area shape="rect" id="node19" href="$classMyAll_1_1MyO.html#a03d6602d3b20f9c1588188b9c7504ec1" title="Writes a formated string (without LF) :" alt="" coords="125,613,271,640"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyO.html#a5cacdd1c0f4b9bdc0aa6f1d6cad35ae5" title="File re&#45;open." alt="" coords="365,157,521,184"/>
+<area shape="rect" id="node11" href="$classMyAll_1_1MyI.html#a69d37c39ece39498afd49cbc02cc8cd7" title="For fast reading of larger rows (* however, only use when the row length is under N_READ_)...." alt="" coords="630,530,785,571"/>
+<area shape="rect" id="node12" href="$classMyAll_1_1MyI.html#a3a49cdb5b6c687aa0616868c03c7be23" title="For fast reading of smaller rows. :" alt="" coords="630,595,785,637"/>
+<area shape="rect" id="node13" href="$classMyAll_1_1MyI.html#afe2229f5713d2f2bef8b9b41325ffe85" title="This function removes comment&#45;out lines." alt="" coords="599,479,816,505"/>
+<area shape="rect" id="node17" href="$classMyAll_1_1MyI.html#a3aa4a7f2c0205303ea51bc87848c03a2" title="Removes comment outs from data. :" alt="" coords="336,411,551,437"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MyAll::MyString::Char2uint" name="MyAll::MyString::Char2uint">
+<area shape="rect" id="node1" title="A char&#45;type to the (unsigned) integer." alt="" coords="5,13,201,39"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyString.html#a429d0f51b4daa0c67ce307f1688bc13e" title="a string to the integer. :" alt="" coords="249,13,412,39"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyString.html#add32aca209e3f1c94265d7fa92e9ec0d" title="A direct string replacement with a pattern. :" alt="" coords="675,5,860,47"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyString.html#aa160126e899e988d1d907c4305175944" title="A string to the real number. :" alt="" coords="460,38,627,65"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyString.html#a7f3305b9c921004809be0dc61a34ebcc" title="A string replacement with a pattern. :" alt="" coords="908,13,1093,39"/>
+</map>

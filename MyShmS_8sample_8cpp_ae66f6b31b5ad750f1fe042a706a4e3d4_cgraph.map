@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,60,225"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyShmS.html#aa68406df075d4158456d15c9898515c1" title="Gets the byte size of the shared memory type. :" alt="" coords="109,5,298,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyShmS.html#a83548e725585e5e6c10d8a21c95a79a5" title="Clears all the shared memories." alt="" coords="367,224,534,251"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyShmS.html#a7429e4af6c353e643121cd33ae763f56" title="This is a test function!! The member variables of the semaphore &amp; shared memories are initialized...." alt="" coords="120,107,287,149"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyShmS.html#a76c246ee955b5b5ad767d39dbe508eaf" title="Prints the shared momory information." alt="" coords="122,173,285,200"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyShmS.html#abfa2b84eada196750e060396253fa1a0" title="Reads the shared memory (boolean) :" alt="" coords="121,275,286,301"/>
+<area shape="rect" id="node11" href="$classMyAll_1_1MyShmS.html#a258bb4d8dff51be3354a0dbb09af3624" title="Reads the (additional) shared memory file. :" alt="" coords="109,56,297,83"/>
+<area shape="rect" id="node13" href="$classMyAll_1_1MyShmS.html#aaf613bfdaa4350be15573fd843a6b8f8" title="Writes the shared memory (boolean) :" alt="" coords="120,325,287,352"/>
+<area shape="rect" id="node16" href="$classMyAll_1_1MyShmS.html#a1af0d9afeec0873bc027ca9dedcbce5b" title="Writes the shared memory information to the file. :" alt="" coords="108,376,299,403"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyShmS.html#a57f2d10144600c609a7fe58f080568f1" title="Closes the shared momories. :" alt="" coords="603,223,805,249"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyShmS.html#a5767c8d27f50a88c2a05a4ffbf67a02a" title="Gets the shared momory information." alt="" coords="372,173,529,200"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyShmS.html#a63d698b67e60d2770e146aa7fc4849f7" title="Checks before reading the shared memory. :" alt="" coords="347,275,555,301"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyShmS.html#ad4cadbdb091575dcf09e270c6dc9951f" title="Checks a existance of the shared memory." alt="" coords="603,277,805,304"/>
+<area shape="rect" id="node12" href="$classMyAll_1_1MyShmS.html#ad3b51751ee8263fd752d78f06d415ad0" title="Closes the semaphore. :" alt="" coords="349,89,552,116"/>
+<area shape="rect" id="node14" href="$classMyAll_1_1MyShmS.html#a24a125818663d59c9dfd5d8eea5348cd" title="Checks before writing the shared memory. :" alt="" coords="365,326,537,367"/>
+<area shape="rect" id="node15" href="$classMyAll_1_1MyShmS.html#a32a70c8db06f647d592e8957e344b4e1" title="Gets the shared momory ID. :" alt="" coords="612,333,796,360"/>
+</map>

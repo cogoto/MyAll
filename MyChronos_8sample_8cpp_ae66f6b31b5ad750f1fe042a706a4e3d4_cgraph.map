@@ -1,0 +1,32 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,715,60,741"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyChronos.html#a4ceedee69e52eb596bedd03fed78f37e" title="Converts the format. :" alt="" coords="120,5,327,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyChronos.html#af1408fffa7b4c53fffa309635e66bab0" title="Converts the format. :" alt="" coords="120,56,327,83"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyChronos.html#a8a30fede9a663d6a6e6669c8987aa77e" title="Gets the differential time. :" alt="" coords="138,107,309,133"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyChronos.html#a92983c82dde64bcac883ed794a6015d3" title="Gets the component. :" alt="" coords="138,157,309,184"/>
+<area shape="rect" id="node6" href="$classMyAll_1_1MyChronos.html#a3be13448db50aafd2e50c24615a5cc73" title="Gets the date as an array. :" alt="" coords="122,208,325,235"/>
+<area shape="rect" id="node7" href="$classMyAll_1_1MyChronos.html#a42b5ce39e3f7a7f4037808459fbd258f" title="Gets the formatted date string. :" alt="" coords="134,259,313,285"/>
+<area shape="rect" id="node8" href="$classMyAll_1_1MyChronos.html#a79ffb4d95716b465a0aa7280d85da63b" title="Gets the formatted date string. :" alt="" coords="113,309,333,336"/>
+<area shape="rect" id="node9" href="$classMyAll_1_1MyChronos.html#a05078a6fb3e4ae0e70f03a80aa81de5c" title="Gets the formatted date string. :" alt="" coords="116,360,331,387"/>
+<area shape="rect" id="node10" href="$classMyAll_1_1MyChronos.html#a9ed7931e30bf985e72d2f37d430acc34" title="Gets the formatted date string. :" alt="" coords="116,411,331,437"/>
+<area shape="rect" id="node11" href="$classMyAll_1_1MyChronos.html#a7a6219a4d9ed8d4875867899f45656d5" title="Confirms a leap year. :" alt="" coords="115,461,332,488"/>
+<area shape="rect" id="node12" href="$classMyAll_1_1MyChronos.html#a95c3ee397564909bfaaac323c740f3fc" title="Calculates the Julian Day (JD). :" alt="" coords="142,512,305,539"/>
+<area shape="rect" id="node13" href="$classMyAll_1_1MyChronos.html#af8cdebcd68b9e529149e24451915e27c" title="Calculates the LST. :" alt="" coords="138,563,309,589"/>
+<area shape="rect" id="node14" href="$classMyAll_1_1MyChronos.html#a616d82e4e30dfe500db8e7c01ea678b5" title="Calculates the Modified Julian Day (MJD). :" alt="" coords="136,613,311,640"/>
+<area shape="rect" id="node15" href="$classMyAll_1_1MyChronos.html#a3fddd9f356a84658f12bee66e884923d" title="Gets the decimal part which is formatted. :" alt="" coords="131,664,316,691"/>
+<area shape="rect" id="node16" href="$classMyAll_1_1MyChronos.html#ae94869d0099ea1233cd41bdb3ad2cd45" title="Gets the decimal part which is formatted. :" alt="" coords="132,715,315,741"/>
+<area shape="rect" id="node17" href="$classMyAll_1_1MyChronos.html#a7f0839471eb00fd24172add660e4d14a" title="Print the date to the display. :" alt="" coords="134,765,313,792"/>
+<area shape="rect" id="node18" href="$classMyAll_1_1MyChronos.html#a449d6fad3fd6f1eef91e00e13afe1f3e" title="Sets the date manually. :" alt="" coords="139,816,308,843"/>
+<area shape="rect" id="node19" href="$classMyAll_1_1MyChronos.html#af39f1e239a00d7114c5837c1dcc807ca" title="Sets the date manually. :" alt="" coords="123,867,323,893"/>
+<area shape="rect" id="node20" href="$classMyAll_1_1MyChronos.html#a907bab707ae89cf54e45cee03b4c3824" title="Sets the current time with the name label. :" alt="" coords="115,917,332,944"/>
+<area shape="rect" id="node21" href="$classMyAll_1_1MyChronos.html#ac9fdb10bc6a635711beb8bf980712fe7" title="Sets the date by an array. :" alt="" coords="123,968,323,995"/>
+<area shape="rect" id="node22" href="$classMyAll_1_1MyChronos.html#ae8519a8a59ea391db0dc7520e558cf6c" title="Sets the date by an array. :" alt="" coords="108,1019,339,1045"/>
+<area shape="rect" id="node23" href="$classMyAll_1_1MyChronos.html#ad3ddb4519bd83e798282afa3f0f1eb5c" title="shifts the date. :" alt="" coords="135,1069,312,1096"/>
+<area shape="rect" id="node24" href="$classMyAll_1_1MyChronos.html#a8da2443457583a218394a6fb378a15bb" title="Calculates the ST. :" alt="" coords="141,1120,305,1147"/>
+<area shape="rect" id="node25" href="$classMyAll_1_1MyChronos.html#ab918aae133f04d378a1a09faaf2b9a35" title="Calculates the Truncated Julian Day (TJD). :" alt="" coords="138,1171,309,1197"/>
+<area shape="rect" id="node26" href="$classMyAll_1_1MyChronos.html#a07e86b42d348d07f41965c832d869cde" title="Gets the decimal part which is formatted. :" alt="" coords="132,1221,315,1248"/>
+<area shape="rect" id="node27" href="$classMyAll_1_1MyChronos.html#a4b02cfbdad724bd2a2bbd55bbc1eb9af" title="Gets the formatted date string. :" alt="" coords="131,1272,315,1299"/>
+<area shape="rect" id="node28" href="$classMyAll_1_1MyChronos.html#a586d9390d935953f2cb6ec9109465706" title="Gets the formatted date string. :" alt="" coords="116,1323,331,1349"/>
+<area shape="rect" id="node29" href="$classMyAll_1_1MyChronos.html#a2f56e0f1fc43f5f70a554109820eacad" title="Gets the formatted date string. :" alt="" coords="134,1373,313,1400"/>
+<area shape="rect" id="node30" href="$classMyAll_1_1MyChronos.html#a7fe1549334800e6b1112f90760279755" title="Gets the formatted date string. :" alt="" coords="119,1424,327,1451"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MyAll::MyLog" name="MyAll::MyLog">
+<area shape="rect" id="node1" title="My class for logging, printing and debugging." alt="" coords="55,199,165,225"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyO.html" title="My class for writing files." alt="" coords="5,95,103,121"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyChronos.html" title="My class for dealing with time." alt="" coords="127,95,267,121"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyString.html" title="My class for dealing string." alt="" coords="134,5,259,32"/>
+</map>

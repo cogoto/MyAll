@@ -1,0 +1,6 @@
+<map id="MyAll::MyTelnet::Send" name="MyAll::MyTelnet::Send">
+<area shape="rect" id="node1" title="Sends the data. :" alt="" coords="328,31,495,57"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyTelnet.html#a9da9518969c54982f44303622d2cf1bc" title="Executes the command. :" alt="" coords="112,5,276,32"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyTelnet.html#a01738324e97793493ad418fde9a02b95" title="Executes the command. :" alt="" coords="108,56,280,83"/>
+<area shape="rect" id="node3" href="$MyTelnet_8sample_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,5,60,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MyAll::MyTcpMaster::RS" name="MyAll::MyTcpMaster::RS">
+<area shape="rect" id="node1" title="Receives messages, and then sends replies :" alt="" coords="232,5,411,32"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyTcpMaster.html#afac861ada5ef1fe0f5b954bbfed9a80f" title="Receives a string, and then sends the reply. :" alt="" coords="5,5,184,32"/>
+</map>

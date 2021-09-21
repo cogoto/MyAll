@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['timeout_5fval_5f_723',['timeout_val_',['../class_my_all_1_1_my_tcp_master.html#ae087da33065c8a743246c3c36a6f722f',1,'MyAll::MyTcpMaster::timeout_val_()'],['../class_my_all_1_1_my_udp_master.html#a8ab1927672af2afe99b07bd799f44432',1,'MyAll::MyUdpMaster::timeout_val_()']]]
+  ['head_5f_1093',['head_',['../classMyAll_1_1MyMsg.html#a326c7265ea3bf70e081d9e221e3fafc1',1,'MyAll::MyMsg::head_()'],['../classMyAll_1_1MyMsgS.html#a83e4f7015fb45ac14f1e07555580267c',1,'MyAll::MyMsgS::head_()']]],
+  ['help_5fopt_5f_1094',['help_opt_',['../classMyAll_1_1MyOption.html#ae9d889e1a4f748b1982c707d9a8d4e26',1,'MyAll::MyOption']]],
+  ['help_5fstring_5f_1095',['help_string_',['../classMyAll_1_1MyOption.html#ae1ef4999ae95c89902e9e9241de5576c',1,'MyAll::MyOption']]]
 ];

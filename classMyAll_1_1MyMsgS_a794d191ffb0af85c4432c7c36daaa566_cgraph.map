@@ -1,0 +1,6 @@
+<map id="MyAll::MyMsgS::Print" name="MyAll::MyMsgS::Print">
+<area shape="rect" id="node1" title="Prints messages. :" alt="" coords="5,42,165,69"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyMsgS.html#a12968dfaea26f32f690b5d4afde7eccf" title="Gets the message. :" alt="" coords="213,42,367,69"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyMsgS.html#aa36f2adc2f5a587d9e163ebb51671611" title="Organizes all messages with joining adjacent same words. :" alt="" coords="433,5,621,47"/>
+<area shape="rect" id="node4" href="$classMyAll_1_1MyMsgS.html#a44711bcd75cd8e5cdcef1ee8147a27e8" title="Organizes all messages. :" alt="" coords="415,71,640,98"/>
+</map>

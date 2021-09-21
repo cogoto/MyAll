@@ -1,0 +1,7 @@
+<map id="MyAll::MyStatus::SetSts" name="MyAll::MyStatus::SetSts">
+<area shape="rect" id="node1" title="Defines a status along with the kind of values." alt="" coords="375,56,552,83"/>
+<area shape="rect" id="node2" href="$classMyAll_1_1MyStatus.html#adcfec25445a2f32e443fde47023edb5c" title="Controls the error status. :" alt="" coords="116,5,319,32"/>
+<area shape="rect" id="node3" href="$classMyAll_1_1MyStatus.html#a48562384191a037d03cca8c3a782e092" title="Controls the normal status. :" alt="" coords="108,56,327,83"/>
+<area shape="rect" id="node5" href="$classMyAll_1_1MyStatus.html#ab69218e46c8457b0cbfd9d26e4974368" title="Controls the warning status. :" alt="" coords="109,107,325,133"/>
+<area shape="rect" id="node4" href="$MyStatus_8sample_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
+</map>
